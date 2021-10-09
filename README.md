@@ -48,3 +48,9 @@ For future elections the python code can be modified with more or other counties
 
 ## Accompanying Images
 These images give you an overview of the election results visually
+
+![](Mod_3_Pics/one.png)
+
+![](Mod_3_Pics/two.png)
+
+![](Mod_3_Pics/three.png)
